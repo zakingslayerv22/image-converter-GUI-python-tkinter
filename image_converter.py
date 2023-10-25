@@ -5,6 +5,9 @@ from PIL import Image
 
 root=Tk()
 root.geometry("400x400")
+
+# the original title and purpose
+# root.title("IMAGE to PDF converter")
 root.title("FIN and TXT converter")
 
 def jpg_to_png():
